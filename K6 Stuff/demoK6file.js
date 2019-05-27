@@ -8,5 +8,6 @@ export default function (data) {
    
     check(response, {"check for status ok": (res) => res.status==200});
     
+    
     sleep(0.05);
 }
