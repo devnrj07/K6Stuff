@@ -1,0 +1,1 @@
+k6 run -d 10s --vus 10 "K6 Stuff"/demoK6File.js
